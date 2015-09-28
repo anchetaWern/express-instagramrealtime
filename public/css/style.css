@@ -1,0 +1,76 @@
+body {
+    background-color: #000;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#results {
+    overflow: hidden;
+    background-color: #fff;
+}
+
+img.userphoto {
+    width: 150px;
+    margin-top: 35px;
+    border-radius: 50%;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+.photo-details {
+    float: left;
+    width: 400px;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    word-wrap: break-word;
+}
+
+img.photo {
+    display: block;
+    margin: 0 auto;
+}
+
+a.username {
+    font-weight: bold;
+    text-decoration: none;
+    color: #7F6DCC;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.timestamp {
+    float: right;
+    color: #AAA7A7;
+    font-size: 14px;
+}
+
+.hidden {
+    display: none;
+}
+
+#form-wrapper {
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 1px solid #F3F3F3;
+    background-color: #fff;
+}
+
+.photo-container {
+    width: 600px;
+    float: left;
+    overflow: hidden;
+}
+
+.caption {
+    margin-top: 20px;
+    word-wrap: break-word;
+}
